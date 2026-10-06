@@ -1,6 +1,10 @@
 # LogicSim 本地重构版
 
-从 https://kuangdash.gitlab.io/logicsim/ 的本地副本重构，原始下载版保留在相邻的 `logicsim-local` 文件夹。
+> **来源**：本项目是 **[https://kuangdash.gitlab.io/logicsim/](https://kuangdash.gitlab.io/logicsim/)** 的**修改版**。
+> 以该站的本地副本为基础，重写了界面样式并对表达式解析、图形生成与模型校验做了重构；
+> 源码与样式均已改动，属非官方版本，与原站及原作者无隶属关系。原站代码与库的版权归原作者所有。
+
+仓库首页与整体说明见上一级 [README.md](../README.md)，重构清单见 [重构说明.md](重构说明.md)。
 
 ## 打开与使用
 
